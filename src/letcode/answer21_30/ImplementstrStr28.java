@@ -1,5 +1,7 @@
 package letcode.answer21_30;
 
+
+//实现 str.indexOf(),模式匹配
 public class ImplementstrStr28 {
 
     public int strStr1(String haystack, String needle) {

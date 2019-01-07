@@ -4,6 +4,7 @@ package letcode.answer1_10;
 import java.util.ArrayList;
 import java.util.List;
 
+//Z型排列，数组，输出
 public class ZigZagConversion6 {
 
     public static String convert(String s, int numRows) {

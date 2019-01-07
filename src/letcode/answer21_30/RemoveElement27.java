@@ -1,5 +1,6 @@
 package letcode.answer21_30;
 
+//删除给定的值，返回新的长度
 public class RemoveElement27 {
 
     public int removeElement(int[] nums, int val) {

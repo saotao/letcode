@@ -3,7 +3,7 @@ package letcode.answer21_30;
 import java.util.ArrayList;
 import java.util.List;
 
-/*分成两组进行反转*/
+/*单链表两个节点分为一组进行反转*/
 public class SwapNodesinPairs24 {
 
     public static class ListNode {
