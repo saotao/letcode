@@ -44,7 +44,7 @@ public class CombinationSum39 {
     }
 
     public static void main(String[] args) {
-        List<List<Integer>> subsets = combinationSum(new int[]{1, 2, 3, 4, 5},110);
+        List<List<Integer>> subsets = combinationSum(new int[]{1, 2, 3},10);
         for(List<Integer> list:subsets) {
             for (Integer i : list) {
                 System.out.print(i + " ");
