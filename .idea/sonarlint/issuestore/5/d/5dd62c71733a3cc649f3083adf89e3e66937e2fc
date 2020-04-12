@@ -1,0 +1,6 @@
+
+csquid:UselessImportCheck"<Remove this unused import 'com.google.common.collect.Lists'.(ˆäóöøÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(­¸¤Êúÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÛÞÕ½ûÿÿÿÿ
+Usquid:UselessImportCheck".Remove this unused import 'java.time.Instant'.(Â‚éñÿÿÿÿÿ

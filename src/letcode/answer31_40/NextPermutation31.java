@@ -1,4 +1,4 @@
-package letcode.answer31_40;
+package answer31_40;
 
 
 //思路，从后往前找，直到下一个数字n小于上一个数字m，然后在后面的元素中找到比n大的最小元素j，

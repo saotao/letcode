@@ -1,0 +1,1 @@
+memberSearchIndex = [{"l":"getAge()","h":"","u":""},{"l":"getName()","h":"","u":""},{"l":"setAge(int)","h":"","u":""},{"l":"setName(String)","h":"","u":"setName(java.lang.String)"}]

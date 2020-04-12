@@ -1,0 +1,15 @@
+
+Gsquid:S1481{")Remove this unused "maps" local variable.(õºŒ¶8çïªÏ€.
+Vsquid:S1854{"8Remove this useless assignment to local variable "maps".(õºŒ¶8çïªÏ€.
+msquid:UselessImportCheck"BRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFRow'.(‹õ·¿8ªÓäÓ€.
+dsquid:S1075y"ARefactor your code to get this URI from a customizable parameter.(ª“ıëùÿÿÿÿ8çïªÏ€.
+msquid:S3027m"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(–¥şûüÿÿÿÿ8ÍÍÓ€.
+ksquid:S2095o"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‹íÄÊ8¨ıĞÓ€.
+wsquid:UselessImportCheck"GRemove this unused import 'org.apache.poi.ss.usermodel.CellType._NONE'.(»Õªıÿÿÿÿ8¹‰€Ô€.
+Tsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å8²€éÓ€.
+jsquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ÕğİÓ€.
+[
+squid:S106|"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8çïªÏ€.
+osquid:UselessImportCheck"DRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFSheet'.(®…óŸ8ç¨äÓ€.
+nsquid:UselessImportCheck"CRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFCell'.(™Óšà8áõäÓ€.
+Fsquid:S1148~"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8çïªÏ€.

@@ -1,4 +1,4 @@
-package letcode.answer1_10;
+package answer1_10;
 
 /*最长回环*/
 public class LongestPalindromicSubstring5 {

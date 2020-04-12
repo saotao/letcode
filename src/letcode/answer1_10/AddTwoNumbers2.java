@@ -1,4 +1,4 @@
-package letcode.answer1_10;
+package answer1_10;
 
 /**
  * 列表：l1:2->3->5,l2:4->8->3

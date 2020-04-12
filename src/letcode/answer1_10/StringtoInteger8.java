@@ -1,4 +1,4 @@
-package letcode.answer1_10;
+package answer1_10;
 /*string to integer -00001-23-  -> 0*/
 public class StringtoInteger8 {
 

@@ -1,6 +1,7 @@
-package letcode.answer1_10;
+package answer1_10;
 
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 /**

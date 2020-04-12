@@ -1,0 +1,7 @@
+
+Lsquid:S1854"5Remove this useless assignment to local variable "a".(¥£ìÍ
+5squid:S1659"Declare "b" on a separate line.(Üöš&
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+T
+squid:S106	"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ

@@ -1,4 +1,4 @@
-package letcode.answer1_10;
+package answer1_10;
 
 /*动态规划'.' and '*'模式匹配*/
 class RegularExpressionMatching10 {

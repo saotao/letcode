@@ -6,7 +6,7 @@ import java.util.Date;
 public class CalendarTest {
 
     public static void main(String[] args) {
-        Date date = DateUtil.getDateByDateStr("1970-1-1 11:00:00","yyyy-MM-dd HH:mm:ss");
+        Date date = ma.DateUtil.getDateByDateStr("1970-1-1 11:00:00","yyyy-MM-dd HH:mm:ss");
         Calendar instance = Calendar.getInstance();
         instance.setTime(date);
         long l = System.currentTimeMillis();

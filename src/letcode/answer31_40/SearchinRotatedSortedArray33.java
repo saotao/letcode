@@ -1,4 +1,4 @@
-package letcode.answer31_40;
+package answer31_40;
 
 //在有拐点的上升数组中查找target，时间复杂度必须为O(logN)
 public class SearchinRotatedSortedArray33 {

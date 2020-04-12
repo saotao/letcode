@@ -1,4 +1,4 @@
-package letcode.answer31_40;
+package answer31_40;
 
 
 //验证数独，每一列，每一行，每一块只含1-9，有重复的则返回false;

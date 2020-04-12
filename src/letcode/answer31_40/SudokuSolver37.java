@@ -1,4 +1,4 @@
-package letcode.answer31_40;
+package answer31_40;
 
 //解决数独问题，给元素为'.'的元素填上合适的数字
 public class SudokuSolver37 {

@@ -1,4 +1,4 @@
-package letcode.answer21_30;
+package answer21_30;
 
 //有序数组，删除相同的数,返回更新的数组长度
 public class RemoveDuplicatesfromSortedArray26 {

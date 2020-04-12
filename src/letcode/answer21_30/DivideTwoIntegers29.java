@@ -1,4 +1,4 @@
-package letcode.answer21_30;
+package answer21_30;
 
 /*不用运算符的除法*/
 public class DivideTwoIntegers29 {

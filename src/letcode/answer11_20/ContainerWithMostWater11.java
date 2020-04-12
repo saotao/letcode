@@ -1,4 +1,4 @@
-package letcode.answer11_20;
+package answer11_20;
 
 
 /*短板问题*/

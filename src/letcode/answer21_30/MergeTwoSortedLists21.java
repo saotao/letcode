@@ -1,4 +1,4 @@
-package letcode.answer21_30;
+package answer21_30;
 
 /*合并两个列表*/
 public class MergeTwoSortedLists21 {

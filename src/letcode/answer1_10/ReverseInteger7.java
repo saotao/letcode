@@ -1,4 +1,4 @@
-package letcode.answer1_10;
+package answer1_10;
 
 import java.util.*;
 

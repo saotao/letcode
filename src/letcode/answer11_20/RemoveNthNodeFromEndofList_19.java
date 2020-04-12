@@ -1,4 +1,4 @@
-package letcode.answer11_20;
+package answer11_20;
 
 /*移除列表倒数第n位的节点*/
 public class RemoveNthNodeFromEndofList_19 {

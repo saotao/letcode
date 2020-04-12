@@ -1,4 +1,4 @@
-package letcode.answer41_50;
+package answer41_50;
 
 //字符串乘法、寻常做法
 public class MultiplyStrings43 {

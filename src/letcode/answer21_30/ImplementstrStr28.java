@@ -1,4 +1,4 @@
-package letcode.answer21_30;
+package answer21_30;
 
 
 //实现 str.indexOf(),模式匹配

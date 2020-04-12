@@ -1,4 +1,4 @@
-package letcode.answer21_30;
+package answer21_30;
 
 import java.util.ArrayList;
 import java.util.List;

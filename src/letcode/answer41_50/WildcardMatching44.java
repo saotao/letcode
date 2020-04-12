@@ -1,4 +1,4 @@
-package letcode.answer41_50;
+package answer41_50;
 
 public class WildcardMatching44 {
 

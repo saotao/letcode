@@ -1,4 +1,4 @@
-package letcode.answer31_40;
+package answer31_40;
 
 //找到开始和末尾的两个target，复杂度为logn
 public class FindFirstandLastPositionofElementinSortedArray34 {

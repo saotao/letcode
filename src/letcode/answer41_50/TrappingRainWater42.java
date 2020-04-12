@@ -1,4 +1,4 @@
-package letcode.answer41_50;
+package answer41_50;
 
 //被困水的个数
 public class TrappingRainWater42 {

@@ -1,4 +1,4 @@
-package letcode.answer31_40;
+package answer31_40;
 
 //查找有序数组中的target，如果不存在，返回其应该插入的位置
 public class SearchInsertPosition35 {

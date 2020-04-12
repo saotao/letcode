@@ -1,4 +1,4 @@
-package letcode.answer31_40;
+package answer31_40;
 
 /**
  * 1:1
